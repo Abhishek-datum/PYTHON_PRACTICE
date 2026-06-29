@@ -1,0 +1,13 @@
+t=(10,20,30,99,77,66,10)
+print(t)
+print(t[-1])
+print(t[-1])
+
+print(t.index(20))
+print(t.count(10))
+s=("hello",10)
+print(s,type(s))
+m=max(t)
+print(m)
+mi=min(t)
+print(mi)

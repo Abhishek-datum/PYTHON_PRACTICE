@@ -1,0 +1,11 @@
+s={10,9,7,8,1}
+s.remove(10)
+print(s)
+s1={1,2,3}
+s2={3,4,5}
+s3=s1.union(s2)
+print(s3)
+s5=s1.difference(s2)
+print(s5)
+s6=s1-s2
+print(s6)
